@@ -1,8 +1,7 @@
 
 <a href="">
-  <img height=210 align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
+  <img height=200 align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
 </a>
-<br>
 <br>
 <br>
 
