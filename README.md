@@ -7,12 +7,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&bg_color=191919" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&theme=vue-dark&border_color=278e38&bg_color=191919&hide=CSS,jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=320&theme=vue-dark" />
 </a>
-
 
 <!--
 **motamed/motamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
