@@ -1,5 +1,17 @@
-![Header](./github-header-pic.png) 
 
+<a href="">
+  <img height=200 align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
+</a>
+<br>
+<br>
+<br>
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&rank_icon=github" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=8&card_width=330&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919" />
+</a>
 
 
 
