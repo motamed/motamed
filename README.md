@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=6&card_width=320&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&hide=css,html,roff,jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=320&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&hide=css,html,roff,jupyter%20notebook,procfile" />
 </a>
 
 
