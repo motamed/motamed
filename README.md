@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=320&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=8&card_width=320&theme=vue-dark&hide=,jupyter%20notebook" />
 </a>
 
 <!--
