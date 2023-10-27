@@ -1,12 +1,12 @@
 
+<a href="">
+  <img align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
+</a>
+<br>
+<br>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=320&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&hide=css,html,roff,jupyter%20notebook,procfile" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&rank_icon=github" width="425"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=320&theme=vue-dark&border_color=278e38&border_radius=30&bg_color=191919&hide=css,html,roff,jupyter%20notebook,procfile" width="425"/> 
 
 
 <!--
