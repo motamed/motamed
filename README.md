@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=20&bg_color=191919&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=vue-dark&border_color=278e38&border_radius=20&bg_color=191919" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=4&card_width=300&theme=vue-dark&border_color=278e38&border_radius=20&bg_color=191919&hide=CSS,jupyter%20notebook" />
