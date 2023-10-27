@@ -1,6 +1,6 @@
 
 <a href="">
-  <img height=200 align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
+  <img align="center" style="margin-bottom: 10px;" src="./github-header-pic.png"   />
 </a>
 <br>
 <br>
