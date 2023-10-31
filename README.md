@@ -1,10 +1,10 @@
-
+<!--
 <a href="">
   <img align="center" src="./github-header-pic.png"   />
 </a>
 <br>
 <br>
-
+-->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
