@@ -1,6 +1,6 @@
 <!--
 <a href="">
-  <img align="center" src="./github-header-pic.png"   />
+  <img align="center" src="./github-header-pic.png"/>
 </a>
 <br>
 <br>
