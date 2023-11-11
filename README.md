@@ -2,7 +2,7 @@
 
 I'm a Cloud Solution Architect at Microsoft, where I design and implement cloud-based solutions for various clients and projects.
 
-I have a passion for learning and sharing my knowledge with others as publicly as possible. I enjoy writing blog posts, and contributing to open source projects.
+I have a passion for learning and sharing my knowledge with others as publicly as possible. I enjoy contributing to open source projects.
 
 Some of the technologies I work with are Azure, Kubernetes, Docker, Python, and Nodejs.
 
