@@ -1,8 +1,8 @@
 # Hello, I'm Saeed Motamed! 👋
 
-I'm a Cloud Solution Architect at Microsoft, where I design and implement cloud-based solutions for various clients and projects.
+I'm a Cloud Solution Architect at   <img height="10" width="10" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" />Microsoft, where I design and implement cloud-based solutions for various clients and projects.
 
-I have a passion for learning and sharing my knowledge with others as publicly as possible. I enjoy contributing to open source projects.
+I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 Some of the technologies I work with are Azure, Kubernetes, Docker, Python, and Nodejs.
 
