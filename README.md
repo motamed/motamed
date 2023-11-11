@@ -1,30 +1,26 @@
-<!--
-<a href="">
-  <img align="center" src="./github-header-pic.png"/>
-</a>
-<br>
-<br>
--->
+# Hello, I'm Saeed Motamed! 👋
 
+I'm a Cloud Solution Architect at Microsoft, where I design and implement cloud-based solutions for various clients and projects. ☁️
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=motamed&theme=gotham&border_radius=30&rank_icon=github" />
-</a>
-<!-- <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motamed&layout=compact&langs_count=6&card_width=320&theme=gotham&border_radius=30&hide=roff,jupyter%20notebook,CSS,HTML&hide_progress=true" />
-</a>
- -->
-<!--
-**motamed/motamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+I have a passion for learning and sharing my knowledge with others as publicly as possible. I enjoy writing blog posts, and contributing to open source projects. 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the technologies I work with are Azure, Kubernetes, Docker, Python, and Nodejs. 💻
+
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Windows-268f77?style=for-the-badge&logo=windows&logoColor=ffffff)
+![](https://img.shields.io/badge/Cloud-Azure-268f77?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
+![](https://img.shields.io/badge/Editor-VSCode-268f77?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![](https://img.shields.io/badge/Code-Python-268f77?style=for-the-badge&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/Code-JavaScript-268f77?style=for-the-badge&logo=javascript&logoColor=ffffff)
+
+## 📈 GitHub Stats
+
+![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=motamed&theme=gotham&border_radius=30&rank_icon=github)
+
+## 📫 How to reach me:
+
+You can find and get in touch with me on these platforms:
+
+<a href="https://x.com/motamed_saeed" ><img height="22" width="22" src="https://cdn.simpleicons.org/x/" /></a>
+<a href="https://www.linkedin.com/in/saeedmotamed" ><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin" /></a>
