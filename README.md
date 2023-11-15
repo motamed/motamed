@@ -8,11 +8,11 @@ Some of the technologies I work with are Azure, Kubernetes, Docker, Python, and 
 
 ## 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-268f77?style=for-the-badge&logo=windows&logoColor=ffffff)
-![](https://img.shields.io/badge/Cloud-Azure-268f77?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
-![](https://img.shields.io/badge/Editor-VSCode-268f77?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![](https://img.shields.io/badge/Code-Python-268f77?style=for-the-badge&logo=python&logoColor=ffffff)
-![](https://img.shields.io/badge/Code-JavaScript-268f77?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![OS](https://img.shields.io/badge/OS-Windows-268f77?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Cloud](https://img.shields.io/badge/Cloud-Azure-268f77?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
+![Editor](https://img.shields.io/badge/Editor-VSCode-268f77?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Code](https://img.shields.io/badge/Code-Python-268f77?style=for-the-badge&logo=python&logoColor=ffffff)
+![Code](https://img.shields.io/badge/Code-JavaScript-268f77?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
 ## 📈 GitHub Stats
 
